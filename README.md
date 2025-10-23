@@ -17,12 +17,12 @@ Fonctionnalités clés :
 <br>
 <H1>📚 DOCUMENTATION 📚</H1> Un fichier **doc.txt** au format RFC décrit l’intégralité du protocole de communication et du format des cartes. Ce document est essentiel pour tester la compatibilité entre différents groupes et garantir la cohérence du protocole. <br> <H1>🤖 RÉSULTAT MOULINETTE 🤖</H1> Le projet est évalué sur : - La qualité du code C/C++. - Le respect des règles de compilation et de la structure Makefile. - La robustesse du protocole réseau. - La qualité et la clarté de la documentation technique. <br>
 
-[!IMPORTANT]
+>[!IMPORTANT]
 Le protocole doit être TCP-based et parfaitement documenté.
 Le client ne décide jamais seul des événements critiques comme la mort ou la victoire.
 Une documentation claire et complète est obligatoire pour la soutenance.
 
-[!CAUTION]
+>[!CAUTION]
 Le partage de code entre groupes est strictement interdit.
 Seule la documentation du protocole peut être échangée.
 Toute tricherie (moulitriche) peut entraîner une note de -42.
